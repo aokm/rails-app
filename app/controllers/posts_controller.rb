@@ -10,6 +10,5 @@ class PostsController < ApplicationController
   end
 
   def search
-    binding.pry
   end
 end
